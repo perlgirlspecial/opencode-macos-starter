@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Generated audio from the lessons and examples
+*.wav
+
+# Node, if you adapt the examples
+node_modules/
+
+# Local OpenCode project config (commit it only if it's shared on purpose)
+# opencode.jsonc
